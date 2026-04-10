@@ -17,11 +17,11 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(img/dinner-skyresto.jpg);
+    background-image: url(img/ngonten-box.jpg);
     background-size: cover;
     background-position: center;
     z-index: -1;
-    filter: grayscale(30%);
+    filter: grayscale(20%);
 }
 
 .hero {
